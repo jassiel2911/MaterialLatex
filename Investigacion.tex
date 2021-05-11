@@ -1,0 +1,50 @@
+\documentclass[legalpaper]{article} %Tipo de documento
+\usepackage[utf8]{inputenc} % Codificación del texto
+\usepackage[spanish]{babel} %Idioma del documento
+\usepackage{graphicx} %Inserción de imagenes
+\usepackage{subfigure}
+\usepackage{float}
+\DeclareGraphicsExtensions{.png, .jpg, .jpeg} %Extensiones de imágenes de nuestro documento
+
+\begin{document}
+    \begin{titlepage}
+        \begin{figure}
+            \begin{flushleft}
+                \begin{subfigure}
+                    {\includegraphics[width=0.2\textwidth]{unamescudo}}
+                \end{subfigure}
+            \end{flushleft}
+            
+            \begin{center}
+                \begin{subfigure}
+                    {\includegraphics[width=0.2\textwidth]{proteco}}
+                \end{subfigure}
+            \end{center}
+            
+            \begin{flushright}
+                \begin{subfigure}
+                    {\includegraphics[width=0.2\textwidth]{escudofi_negro}}
+                \end{subfigure}
+            \end{flushright}
+        \end{figure}
+        
+    
+                        
+        \centering
+        {\bfseries\LARGE Universidad Nacional Autónoma de México \par}
+        \vspace{1cm}
+        {\scshape\Large Facultad de Ingenier\'ia \par}
+        \vspace{3cm}
+        %{\scshape\Huge Programa en Tecnolog\'ia y C\'omputo \par}
+        %\vspace{3cm}
+        {\itshape\Large \textbf{Materia o curso\\} \par} 
+        \vspace{1cm}
+        {\itshape\Large \textbf{Nombre del trabajo\\} \par}
+        \vspace{1cm}
+        \vfill
+        {\Large Autor \\\par}
+        \vfill
+        {\Large \date{\today} \par}
+    \end{titlepage}
+	
+\end{document}
