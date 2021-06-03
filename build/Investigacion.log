@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.20)  11 MAY 2021 01:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.20)  2 JUN 2021 23:41
 entering extended mode
 **c:/Users/bjbp2/Documents/Portada/Investigacion.tex
 (c:/Users/bjbp2/Documents/Portada/Investigacion.tex
@@ -66,35 +66,48 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen140
 \Gin@req@width=\dimen141
-) (C:\Program Files\MiKTeX\tex/latex/subfigure\subfigure.sty
-Package: subfigure 2002/07/30 v2.1.4 subfigure package
-\subfigtopskip=\skip49
-\subfigcapskip=\skip50
-\subfigcaptopadj=\dimen142
-\subfigbottomskip=\skip51
-\subfigcapmargin=\dimen143
-\subfiglabelskip=\skip52
-\c@subfigure=\count190
-\c@lofdepth=\count191
-\c@subtable=\count192
-\c@lotdepth=\count193
-
-****************************************
-* Local config file subfigure.cfg used *
-****************************************
-(C:\Program Files\MiKTeX\tex/latex/subfigure\subfigure.cfg)
-\subfig@top=\skip53
-\subfig@bottom=\skip54
 ) (C:\Program Files\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count194
+\c@float@type=\count190
 \float@exts=\toks19
 \float@box=\box47
 \@float@everytoks=\toks20
 \@floatcapt=\box48
+) (C:\Program Files\MiKTeX\tex/latex/subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+ (C:\Program Files\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen142
+\captionmargin@=\dimen143
+\captionwidth=\dimen144
+\caption@tempdima=\dimen145
+\caption@indent=\dimen146
+\caption@parindent=\dimen147
+\caption@hangindent=\dimen148
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count191
+\c@continuedfloat=\count192
+Package caption Info: float package is loaded.
+)
+\c@KVtest=\count193
+\sf@farskip=\skip49
+\sf@captopadj=\dimen149
+\sf@capskip=\skip50
+\sf@nearskip=\skip51
+\c@subfigure=\count194
+\c@subfigure@save=\count195
+\c@lofdepth=\count196
+\c@subtable=\count197
+\c@subtable@save=\count198
+\c@lotdepth=\count199
+\sf@top=\skip52
+\sf@bottom=\skip53
 ) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count195
+\l__color_backend_stack_int=\count266
 \l__pdf_internal_box=\box49
 ) (c:/Users\bjbp2\Documents\Portada\build\Investigacion.aux
 LaTeX Info: Redefining \. on input line 8.
@@ -102,34 +115,34 @@ LaTeX Info: Redefining \% on input line 8.
 )
 \openout1 = `Investigacion.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
  (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count196
-\scratchdimen=\dimen144
+\scratchcounter=\count267
+\scratchdimen=\dimen150
 \scratchbox=\box50
-\nofMPsegments=\count197
-\nofMParguments=\count198
+\nofMPsegments=\count268
+\nofMParguments=\count269
 \everyMPshowfont=\toks21
-\MPscratchCnt=\count199
-\MPscratchDim=\dimen145
-\MPnumerator=\count266
-\makeMPintoPDFobject=\count267
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen151
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
 \everyMPtoPDFconversion=\toks22
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -137,20 +150,23 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
 <unamescudo.jpg, id=1, 215.8464pt x 235.6002pt>
 File: unamescudo.jpg Graphic file (type jpg)
 <use unamescudo.jpg>
-Package pdftex.def Info: unamescudo.jpg  used on input line 14.
+Package pdftex.def Info: unamescudo.jpg  used on input line 15.
 (pdftex.def)             Requested size: 68.99895pt x 75.31091pt.
 <proteco.png, id=2, 2055.68pt x 2016.53375pt>
 File: proteco.png Graphic file (type png)
 <use proteco.png>
-Package pdftex.def Info: proteco.png  used on input line 20.
+Package pdftex.def Info: proteco.png  used on input line 17.
 (pdftex.def)             Requested size: 68.99895pt x 67.66275pt.
 <escudofi_negro.jpg, id=3, 79.7379pt x 94.4328pt>
 File: escudofi_negro.jpg Graphic file (type jpg)
 <use escudofi_negro.jpg>
-Package pdftex.def Info: escudofi_negro.jpg  used on input line 26.
+Package pdftex.def Info: escudofi_negro.jpg  used on input line 19.
 (pdftex.def)             Requested size: 68.99895pt x 81.71782pt.
  [1
 
@@ -159,15 +175,15 @@ LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 2602 strings out of 479321
- 37725 string characters out of 2866501
- 341556 words of memory out of 3000000
- 20070 multiletter control sequences out of 15000+600000
- 405997 words of font info for 35 fonts, out of 8000000 for 9000
+ 3821 strings out of 479321
+ 61722 string characters out of 2866501
+ 366962 words of memory out of 3000000
+ 21285 multiletter control sequences out of 15000+600000
+ 406596 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,6n,74p,245b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,6n,79p,357b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on c:/Users\bjbp2\Documents\Portada\build\Investigacion.pdf (1 page, 661109 bytes).
+Output written on c:/Users\bjbp2\Documents\Portada\build\Investigacion.pdf (1 page, 664160 bytes).
 PDF statistics:
  25 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
